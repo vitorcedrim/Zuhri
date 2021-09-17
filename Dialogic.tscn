@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://addons/dialogic/Nodes/TextBubble.tscn" type="PackedScene" id=2]
+
+[sub_resource type="GDScript" id=1]
+script/source = "extends Node2D
+
+
+
+"
+
+[node name="Dialogic" type="Node2D"]
+script = SubResource( 1 )
+
+[node name="TextBubble" parent="." instance=ExtResource( 2 )]
+margin_left = -418.265
+margin_top = 432.597
+margin_right = 491.735
+margin_bottom = 599.597
