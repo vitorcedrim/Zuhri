@@ -1,0 +1,24 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1631912307.json",
+	"mirror_portraits": false,
+	"name": "Dominique",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 120,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		},
+		{
+			"name": "Sprite-cat",
+			"path": "res://sprites/Sprite-cat.png"
+		}
+	],
+	"scale": 400
+}

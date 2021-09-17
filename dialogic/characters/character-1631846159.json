@@ -1,0 +1,24 @@
+{
+	"color": "#ffffffff",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1631846159.json",
+	"mirror_portraits": false,
+	"name": "Zuhri",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 100,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": "res://UI/zuhri_olhando_pra_cima.png"
+		},
+		{
+			"name": "Zuhri",
+			"path": "res://UI/zuhri_olhando_pra_cima.png"
+		}
+	],
+	"scale": 50
+}
